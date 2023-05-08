@@ -10,13 +10,13 @@
 
     <groupId>org.example</groupId>
     <artifactId>myfirstmavenproject</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/Saban39/maven_versioning.git</connection>
         <developerConnection>scm:git:https://github.com/Saban39/maven_versioning.git</developerConnection>
         <url>https://github.com/Saban39/maven_versioning.git</url>
-      <tag>myfirstmavenproject-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
